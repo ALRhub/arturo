@@ -1,0 +1,14 @@
+epochs: 160
+seed: 42
+dataset_name: cifar100
+model_name: resnet34
+path: ../datasets
+num_worker: 2
+pin_memory: True
+
+train_batch_size: 255
+test_batch_size: 255
+
+scheduler:
+    name: multi_step_lr
+    milestones: [80, 120 ]

@@ -1,0 +1,11 @@
+eta_tol: 0.5
+kl_bound: 0.007233730017485263
+var_init: 0.01
+reg_weight: 1.676769985136136
+prior_prec: 0.0015
+start_filter_cov: 0.00005
+measurement_noise: 4.822031633849579
+dynamic_model_noise: 0.009778753916444217
+nu: 1.3
+multi_step_lr_gamma: 0.006
+weight_decay: 0.0

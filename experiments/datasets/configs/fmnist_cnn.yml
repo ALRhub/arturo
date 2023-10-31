@@ -1,0 +1,14 @@
+epochs: 120
+seed: 42
+dataset_name: fmnist
+model_name: cnn
+path: ../datasets
+num_worker: 2
+pin_memory: True
+
+train_batch_size: 255
+test_batch_size: 255
+
+scheduler:
+    name: multi_step_lr
+    milestones: [ 60, 90 ]
