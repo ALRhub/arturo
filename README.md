@@ -1,7 +1,7 @@
 # arTuRO (Information-Theoretic Trust Region Optimization )
 
 This repository contains the code for the paper [Information-Theoretic Trust Regions for Stochastic Gradient-Based
-Optimization](https://arxiv.org/abs/2106.01401) by [Philipp Dahlinger](https://github.com/philippdahlinger/), Philipp Becker, Maximilian Hüttenrauch and Gerhard Neumann.
+Optimization](https://arxiv.org/abs/2310.20574) by [Philipp Dahlinger](https://github.com/philippdahlinger/), Philipp Becker, Maximilian Hüttenrauch and Gerhard Neumann.
 
 ## Installation
 Create a virtual environment and install the requirements:
